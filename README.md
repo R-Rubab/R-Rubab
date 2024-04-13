@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter Developer
 -----------------
 
-I am a flutter developer who loves react!
+I am a Flutter developer who loves React!
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [urubab011@gmail.com](mailto:urubab011@gmail.com)
-* 🧠  I'm learning Nest Js, Node Js and Al concepts
-* 🤝  I'm open to collaborating on Projects
+* 🌍  I'm based in Pakistan.
+* ✉️  You can contact me at [urubab011@gmail.com](mailto:urubab011@gmail.com).
+* 🚀  I'M CURRENTLY WORKING ON FLUTTER (MOBILE APPLICATION).
+* 🧠  I'm learning Nest Js, Node Js and Al concepts.
+* 🤝  I'm open to collaborating on Projects.
 * ⚡  I'm also enthusiastic about being a Front-End Web Developer—Spread the word!🙌
 
 <a href="https://www.github.com/R-Rubab" target="_blank" rel="noreferrer"><img
