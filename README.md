@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0891B2&width=435&lines=I+am+identified+as+Rubab.)](https://git.io/typing-svg)
+
 Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am identified as
 <span style="color:blue"> Rubab</span>.
 =============================================================================================================================
