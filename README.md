@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0891B2&width=435&lines=I+am+identified+as+Rubab.)](https://git.io/typing-svg)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=530&size=25&duration=5100&pause=1102&color=FFFFFF&center=true&width=540&lines=Hi+There!+I+am+identified+as+Rubab.)](https://git.io/typing-svg)
 =============================================================================================================================
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Alt Text">
