@@ -44,3 +44,75 @@ src="https://img.shields.io/github/followers/R-Rubab?logo=github&style=for-the-b
 
 
 <a href="https://github.com/R-Rubab" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Rubab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Personal Projects
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Digital Banking App UI</th>	
+			<th>Health-Care UI</th>	
+			<th>Doctor UI</th>
+		</tr>
+		<tr>
+			<td>
+				<img width="407" alt="digital banking" src="https://github.com/user-attachments/assets/4a6c44f1-8ac4-425d-916e-d3cde1a6ea6f">
+			</td>
+			<td>
+        <img width="427" alt="health" src="https://github.com/user-attachments/assets/68fd6d94-8e99-49c0-9af5-12f9bb0868b3">
+			</td>
+			<td>
+        <img width="437" alt="MedApp" src="https://github.com/user-attachments/assets/96df3ec6-a86b-4060-aedf-f8cc28a7b6bf">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/R-Rubab/Flutter_Digital_Banking_App">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Flutter_Digital_Banking_App&theme=dracula" alt="Flutter DigitalApp" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/R-Rubab/Health-Care">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Health-Care&theme=dracula" alt="Flutter Health Care" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/R-Rubab/MedApp">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=MedApp&theme=dracula" alt="Flutter and Firebase" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<th>Skin Care UI</th>	
+			<th>Car Controller UI</th>	
+			<th>Money Tracker UI</th>
+		</tr>
+		<tr>
+			<td>
+        <img width="445" alt="img11" src="https://github.com/user-attachments/assets/2852c7fa-67c6-4b8a-892e-126f8251e73a">
+			</td>
+			<td>
+				<img width="431" alt="img6" src="https://github.com/user-attachments/assets/3af9c412-a18b-4ed0-9084-f8e845e188b0">
+			</td>
+			<td>
+			<img width="442" alt="img4" src="https://github.com/user-attachments/assets/f61b273b-be65-4b27-8bcd-6f5b5f4322cf">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/R-Rubab/Skin-Care">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Skin-Care&theme=dracula" alt="Skin-Care" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/R-Rubab/Car-Controller-App">					
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Car-Controller-App&theme=dracula" alt="Car-Controller-App" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/R-Rubab/Money-Tracker-Application">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Money-Tracker-Application&theme=dracula" alt="Money-Tracker-Application" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
