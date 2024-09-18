@@ -1,8 +1,8 @@
-Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)You might recognize me as
+Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am identified as
 <span style="color:blue"> Rubab</span>.
 =============================================================================================================================
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" alt="Alt Text">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Alt Text">
 </p>
 
 ### 👩‍💻WHO AM I:
@@ -12,7 +12,7 @@ I am a Flutter developer who loves React!
 * 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at [urubab011@gmail.com](mailto:urubab011@gmail.com).
 * 🚀  I'M CURRENTLY WORKING ON FLUTTER (MOBILE APPLICATION).
-* 🧠  I'm learning NextJs, NodeJs and Al concepts.
+* 🧠  I'm learning MongoDB, NodeJs and Cloud Computing.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I'm also enthusiastic about being a Front-End Web Developer—Spread the word!🙌
 
