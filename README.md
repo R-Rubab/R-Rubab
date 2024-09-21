@@ -58,26 +58,26 @@ src="https://img.shields.io/github/followers/R-Rubab?logo=github&style=for-the-b
 				<img width="407" alt="digital banking" src="https://github.com/user-attachments/assets/4a6c44f1-8ac4-425d-916e-d3cde1a6ea6f">
 			</td>
 			<td>
-        <img width="427" alt="health" src="https://github.com/user-attachments/assets/68fd6d94-8e99-49c0-9af5-12f9bb0868b3">
+      			       <img width="427" alt="health" src="https://github.com/user-attachments/assets/68fd6d94-8e99-49c0-9af5-12f9bb0868b3">
 			</td>
 			<td>
-        <img width="437" alt="MedApp" src="https://github.com/user-attachments/assets/96df3ec6-a86b-4060-aedf-f8cc28a7b6bf">
+        		      <img width="437" alt="MedApp" src="https://github.com/user-attachments/assets/96df3ec6-a86b-4060-aedf-f8cc28a7b6bf">
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a href="https://github.com/R-Rubab/Flutter_Digital_Banking_App">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Flutter_Digital_Banking_App&theme=dracula" alt="Flutter DigitalApp" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Flutter_Digital_Banking_App&theme=dracula" alt="digital banking" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/R-Rubab/Health-Care">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Health-Care&theme=dracula" alt="Flutter Health Care" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Health-Care&theme=dracula" alt="health" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/R-Rubab/MedApp">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=MedApp&theme=dracula" alt="Flutter and Firebase" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=MedApp&theme=dracula" alt="MedApp" />
 				</a>
 			</td>
 		</tr>
@@ -100,17 +100,17 @@ src="https://img.shields.io/github/followers/R-Rubab?logo=github&style=for-the-b
 		<tr>
 			<td>
 				<a href="https://github.com/R-Rubab/Skin-Care">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Skin-Care&theme=dracula" alt="Skin-Care" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Skin-Care&theme=dracula" alt="img11" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/R-Rubab/Car-Controller-App">					
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Car-Controller-App&theme=dracula" alt="Car-Controller-App" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Car-Controller-App&theme=dracula" alt="img6" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/R-Rubab/Money-Tracker-Application">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Money-Tracker-Application&theme=dracula" alt="Money-Tracker-Application" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Money-Tracker-Application&theme=dracula" alt="img4" />
 				</a>
 			</td>
 		</tr>
