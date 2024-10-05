@@ -49,13 +49,17 @@ src="https://img.shields.io/github/followers/R-Rubab?logo=github&style=for-the-b
 <table>
 	<tbody width="100%">
 		<tr>
+			<th>E-Commerce App Bloc & Firebase</th>	
 			<th>Digital Banking App UI</th>	
 			<th>Health-Care UI</th>	
 			<th>Doctor UI</th>
 		</tr>
 		<tr>
 			<td>
-				<img width="407" alt="digital banking" src="https://github.com/user-attachments/assets/4a6c44f1-8ac4-425d-916e-d3cde1a6ea6f">
+				<img width="427"  alt="11" src="https://github.com/user-attachments/assets/9fc43e91-b1d8-4b1b-9295-dc596625e817">
+			</td>
+			<td>
+				<img width="427" alt="digital banking" src="https://github.com/user-attachments/assets/4a6c44f1-8ac4-425d-916e-d3cde1a6ea6f">
 			</td>
 			<td>
       			       <img width="427" alt="health" src="https://github.com/user-attachments/assets/68fd6d94-8e99-49c0-9af5-12f9bb0868b3">
@@ -65,6 +69,11 @@ src="https://img.shields.io/github/followers/R-Rubab?logo=github&style=for-the-b
 			</td>
 		</tr>
 		<tr>
+			<td>
+				<a href="https://github.com/R-Rubab/-E-Commerce-App">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=-E-Commerce-App&theme=dracula" alt="e-commerce" />
+				</a>
+			</td>
 			<td>
 				<a href="https://github.com/R-Rubab/Flutter_Digital_Banking_App">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Rubab&repo=Flutter_Digital_Banking_App&theme=dracula" alt="digital banking" />
